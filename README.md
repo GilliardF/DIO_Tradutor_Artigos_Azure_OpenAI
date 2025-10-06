@@ -1,0 +1,1 @@
+# DIO_Tradutor_Artigos_Azure_OpenAI
